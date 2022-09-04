@@ -7,6 +7,6 @@
 <p> -Aamna</p>
 <h2> INTRODUCING THE GEMS OF BIOTECH DEPARTMENT:</h2>
 <br/>
-<img src="file:///C:/Users/ASUS/Downloads/teachersday.webp"/>
+<img src="teachersday.webp"/>
 </body>
 </html>
